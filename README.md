@@ -1,5 +1,8 @@
 # first_repository
  class 1 training basic repo
+ 
+ Nov 2020 class
+
 
  Created for Intro to git and github from Fredhutchio
 
